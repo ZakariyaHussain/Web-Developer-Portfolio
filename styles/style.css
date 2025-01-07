@@ -1,0 +1,29 @@
+
+
+.open-sans{
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.logo-name{
+    font-weight: 800;
+}
+.styled{
+    color: orange;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+}
+.menu li{
+    list-style: none;
+}
+.menu li a{
+    text-decoration: none;
+}
