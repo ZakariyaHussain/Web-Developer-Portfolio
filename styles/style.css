@@ -44,7 +44,7 @@
 .header{
     background-image: url("../assets/images/developer.png");
     background-repeat: no-repeat;
-    background-position: 40px 18px;
+    background-position: 30px 18px;
     background-color: #FFF8F3;
 }
 .nav{
@@ -80,7 +80,7 @@
 /* Banner */
 
 .banner{
-    background-image: url("./assets/images/header_bg.png");
+    background-image: url("../assets/images/header_bg.png");
     background-repeat: no-repeat;
     background-position: right bottom;
     display: flex;
@@ -93,7 +93,7 @@
     align-items: center;
 }
 .banner-content{
-    max-width: 750px;
+    max-width: 650px;
     max-height: 356px;
     margin-left: 150px;
     
@@ -107,7 +107,7 @@
 }
 .banner-title{
     margin-bottom: 20px;
-    font-size: 85px;
+    font-size: 65px;
     font-weight: bold;
     color: #181818;
 }
@@ -127,7 +127,7 @@
     background-color: #FFF8F3;
     width: 95%;
     height: 550px;
-    margin: 50px auto;
+    margin: 80px auto;
     display: flex;
     justify-content: center;
     align-items: center;
