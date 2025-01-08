@@ -26,6 +26,12 @@
     color: #757575;
     text-align: center;
 }
+.common-description{
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    
+}
 .dark-2{
     color: #474747;
 }
@@ -159,4 +165,31 @@
     line-height: 30px;
     color: #474747;
     text-align: center;
+}
+
+/* Start Service */
+#service{
+    padding: 0 200px;
+}
+.service-content{
+    padding: 50px;
+    margin-top: 80px;
+}
+.service-content h2{
+    margin-bottom: 30px;
+}
+.services{
+    display: flex;
+    gap: 24px;
+    
+}
+.service{
+    max-width: 267px;
+    max-height: 377px;
+    box-shadow: 0 1px 10px #000000;
+    padding: 30px;
+}
+.service h4{
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
